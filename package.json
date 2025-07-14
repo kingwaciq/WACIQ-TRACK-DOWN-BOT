@@ -1,0 +1,14 @@
+{
+  "name": "waciq-tiktok-bot",
+  "version": "1.0.0",
+  "description": "TikTok video downloader Telegram bot by WACIQ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "request": "^2.88.2"
+  }
+} 
